@@ -17,3 +17,4 @@ cases/**/progress.log
 # База пересобирается скриптом
 data/*.duckdb
 cases/**/dynamicCode/
+cases/**/allrun.out
