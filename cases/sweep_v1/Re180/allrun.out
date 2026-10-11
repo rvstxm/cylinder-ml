@@ -1,0 +1,3 @@
+Running blockMesh on /home/rvstxm/cylinder-ml/cases/sweep_v1/Re180
+Running mirrorMesh on /home/rvstxm/cylinder-ml/cases/sweep_v1/Re180
+Running foamRun on /home/rvstxm/cylinder-ml/cases/sweep_v1/Re180

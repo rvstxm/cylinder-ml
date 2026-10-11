@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OpenFOAM: результаты и сетки не храним, только настройки (0/, constant/, system/)
+cases/**/[1-9]*/
+cases/**/0.*/
+cases/**/processor*/
+cases/**/postProcessing/
+cases/**/constant/polyMesh/
+cases/**/fluentInterface/
+cases/**/log.*
+cases/**/*.foam
+cases/**/progress.log
+
+# База пересобирается скриптом
+data/*.duckdb
+cases/**/dynamicCode/
